@@ -1,27 +1,24 @@
-# Awesome Belgische Fietser
-Awesome list for cyclists in Belgium
-
-Currently focused on Functional Cyclists in Antwerp
-
-
 ## Verkeersregels
 - [volgens Touring](https://www.touring.be/nl/artikels/verkeersregels-voor-fietsers)
-- [Fietsers en de wegcode (PDF)](http://www.lokalepolitie.be/5388/downloads/file/brochures%2Fverkeer/Fietsers_en_de_wegcode_BIVV.pdf)
+- [Fietsers en de wegcode (PDF)](http://www.politie.be/5388/sites/default/files/downloads/brochures/verkeer/Fietsers_en_de_wegcode_BIVV.pdf)
 
 
 ## Mobiliteit
 - [Blunderboek Antwerpse Mobiliteit](http://www.blunderboek.be/)
 - [fietsbarometer](http://fietsbarometer.provincieantwerpen.be/geoloketten/?viewer=fietsbarometer)
 - [Manyways](https://www.manyways.be/antwerp)
-- [velo bikes](https://www.velo-antwerpen.be/)
-- [stad Antwerpen open data rond Mobiliteit](https://opendata.antwerpen.be/datasets?tid%5B0%5D=51)
+- [Mobiliteitspact voor Antwerpen](https://antwerpenize.be/post/170604546232/mobiliteitspact-voor-antwerpen)
 
 
 ## Organisaties
-- Antwerpenize
-- [Telraam](https://www.telraam.net/)
-- Fietsersbond
+- [Antwerpenize](https://antwerpenize.be/)
+- [Fietsersbond](https://www.fietsersbond.be)
+- [Fietsberaad](https://fietsberaad.be) - Fietsberaad Vlaanderen is een kenniscentrum voor fietsbeleid en in brede zin voor elk beleid dat het fietsen stimuleert.
 
+## Acties
+- [Telraam](https://www.telraam.net/)
+- https://dataplatformfiets.be/
+- https://fietstelweek.be/resultaten/2018
 
 ## Apps
 
