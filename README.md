@@ -12,7 +12,7 @@
 
 ## Organisaties
 - [Antwerpenize](https://antwerpenize.be/)
-- [Fietsersbond](https://www.fietsersbond.be)
+- [Fietsersbond](https://www.fietsersbond.be) - De Fietsersbond is een onafhankelijke ledenvereniging met meer dan 23.000 leden en vijfhonderd vrijwilligers. Sluit je ook aan, met z'n allen staan we sterker!
 - [Fietsberaad](https://fietsberaad.be) - Fietsberaad Vlaanderen is een kenniscentrum voor fietsbeleid en in brede zin voor elk beleid dat het fietsen stimuleert.
 
 ## Acties
